@@ -50,8 +50,8 @@ pip install pandas numpy matplotlib seaborn
 2. Open `eda_analysis.ipynb` in VS Code or Jupyter
 3. Run all cells to reproduce the analysis and visualizations
 
-## 📌 Outcome
+##  Outcome
 This project helped develop analytical thinking and data exploration skills by identifying patterns and key influencing factors within a real-world style dataset, and presenting findings in a structured, readable report.
 
-## 👤 Author
-[Your Name] — Data Science Intern
+##  Author
+Nivesh Somanaboina — Data Science Intern
