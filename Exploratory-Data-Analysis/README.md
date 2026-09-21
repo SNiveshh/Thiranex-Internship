@@ -1,12 +1,12 @@
 # Exploratory Data Analysis (EDA) Project
 
-## 📌 Objective
+##  Objective
 Analyze a dataset to uncover patterns, trends, and relationships between variables using statistical summaries and visualizations.
 
-## 📊 Dataset
+##  Dataset
 `employee_attrition.csv` — 400 employee records with demographic and work-related features including age, income, department, education, satisfaction score, and attrition status.
 
-## 🔍 Process
+##  Process
 
 **1. Data Loading & Overview**
 - Loaded the dataset and reviewed its shape, structure, and data types
@@ -30,19 +30,19 @@ Analyze a dataset to uncover patterns, trends, and relationships between variabl
 - Compared satisfaction score and working hours between employees who left vs. stayed
 - Calculated attrition rate by department to identify high-risk groups
 
-## 📈 Key Insights
+##  Key Insights
 - [Fill in: e.g. "Employees with lower satisfaction scores show a higher tendency to leave"]
 - [Fill in: e.g. "The Sales department has the highest attrition rate at X%"]
 - [Fill in: e.g. "Age and years of experience are strongly correlated, as expected"]
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-## 🚀 How to Run
+##  How to Run
 1. Install dependencies
 ```bash
 pip install pandas numpy matplotlib seaborn
