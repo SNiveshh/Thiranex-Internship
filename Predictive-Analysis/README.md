@@ -42,3 +42,6 @@ The goal of this project is to predict employee attrition (**Yes/No**) based on 
 * Pandas
 * Matplotlib
 * Scikit-Learn
+
+## Author
+Nivesh Somanaboina - Data Science intern 
